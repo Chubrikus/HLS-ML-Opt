@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outputs and results
+outputs/
+
+# RL/optimizer artifacts
+optimizer/
+actor_critic_checkpoint.pt
+best_actor_critic_model_combo.pt
+best_actor_critic_model.pt 
