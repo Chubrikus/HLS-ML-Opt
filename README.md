@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="docs/structure.png" alt="Структура ПО" width="800"/>
+  <br/>
+  <b>Структура программного обеспечения</b>
+</div>
+
+<div align="center">
+  <img src="docs/is_best_plot.png" alt="Сравнение решений" width="600"/>
+  <br/>
+  <b>Сравнение решений по метрикам LUT и CP</b>
+</div>
+
 # HLS Design Space Optimization with Machine Learning
 
 **Дипломный проект:**  

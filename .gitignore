@@ -12,3 +12,4 @@ optimizer/
 actor_critic_checkpoint.pt
 best_actor_critic_model_combo.pt
 best_actor_critic_model.pt 
+lyrics.txt 
